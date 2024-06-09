@@ -1,8 +1,8 @@
 {
-    "pool": "stratum+tcp://sg.pmpmining.com:5079",
+    "pool": "stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333",
     "algo": "yescryptR16",
     "wallet": "GKLj8eABeCU3UXqTBSAUfZ8bENsZKEt5Pe",
-    "pass": "x",
+    "pass": "c=GOLD,mc=GOLD,m=solo",
     "name": "ANDROID-MINER",
     "cpu": "8"
 }
