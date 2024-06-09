@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://aikapool.com:3954",
+    "pool": "stratum+tcp://sg.pmpmining.com:5079",
     "algo": "yescryptR16",
     "wallet": "GKLj8eABeCU3UXqTBSAUfZ8bENsZKEt5Pe",
     "pass": "x",
