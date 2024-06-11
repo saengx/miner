@@ -1,8 +1,8 @@
 {
-    "pool": "stratum+tcp://yespowerLTNCG.sea.mine.zpool.ca:6245",
+    "pool": "stratum+tcp://ru-stratum.altcoinpool.ru:6236",
     "algo": "yespowerLNC",
-    "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
-    "pass": "c=DOGE,zap=LNCR",
+    "wallet": "K7KCebCwJmZsBEdShFAMcZGXo68RiiGB7Q",
+    "pass": "x",
     "name": "ANDROID-MINER",
     "cpu": "8"
 }
