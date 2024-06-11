@@ -1,6 +1,6 @@
 {
     "pool": "stratum+tcp://yespowerLTNCG.sea.mine.zpool.ca:6245",
-    "algo": "yespowerLTN",
+    "algo": "yespowerLTNCG",
     "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
     "pass": "c=DOGE",
     "name": "ANDROID-MINER",
