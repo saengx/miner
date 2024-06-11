@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://ru-stratum.altcoinpool.ru:6236",
+    "pool": "stratum+tcp://sg.mining4people.com:4170",
     "algo": "yespowerLNC",
     "wallet": "K7KCebCwJmZsBEdShFAMcZGXo68RiiGB7Q",
     "pass": "x",
