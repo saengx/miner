@@ -1,7 +1,7 @@
 {
-    "pool": "stratum+tcp://ru-stratum.altcoinpool.ru:6236",
-    "algo": "yespowerLNC",
-    "wallet": "K7KCebCwJmZsBEdShFAMcZGXo68RiiGB7Q",
+    "pool": "stratum+tcp://mine.evepool.pw:6534",
+    "algo": "yespowerR16",
+    "wallet": "YTuASPeJu75Pxc7kUCbUjEe4L4RB7jFpUT",
     "pass": "x",
     "name": "ANDROID-MINER",
     "cpu": "8"
