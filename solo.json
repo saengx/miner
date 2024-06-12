@@ -1,5 +1,5 @@
 {
-    "pool": "ru-stratum.altcoinpool.ru:6239",
+    "pool": "stratum+tcp://ru-stratum.altcoinpool.ru:6239",
     "algo": "yespowerR16",
     "wallet": "FehTQa7TA7KEeoXqMvZtU5MQsEixHcQGFa",
     "pass": "x",
