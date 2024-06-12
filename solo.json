@@ -1,7 +1,7 @@
 {
-    "pool": "stratum+tcp://solo.1pool.org:4066",
+    "pool": "ru-stratum.altcoinpool.ru:6239",
     "algo": "yespowerR16",
-    "wallet": "GKLj8eABeCU3UXqTBSAUfZ8bENsZKEt5Pe",
+    "wallet": "FehTQa7TA7KEeoXqMvZtU5MQsEixHcQGFa",
     "pass": "x",
     "name": "ANDROID-MINER",
     "cpu": "8"
