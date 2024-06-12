@@ -2,7 +2,7 @@
     "pool": "stratum+tcp://allium.sea.mine.zpool.ca:6433",
     "algo": "allium",
     "wallet": "M9WsdixwVCNi6NrAyxVz5huhrs1cKbpibh",
-    "pass": "c=GRLC",
+    "pass": "c=GRLC,zap=GRLC",
     "name": "ANDROID-MINER",
     "cpu": "8"
 }
