@@ -1,7 +1,7 @@
 {
-    "pool": "stratum+tcp://ru-stratum.altcoinpool.ru:6239",
+    "pool": "stratum+tcp://stratum-asia.rplant.xyz:7057",
     "algo": "yespowerR16",
-    "wallet": "FehTQa7TA7KEeoXqMvZtU5MQsEixHcQGFa",
+    "wallet": "GKLj8eABeCU3UXqTBSAUfZ8bENsZKEt5Pe",
     "pass": "x",
     "name": "ANDROID-MINER",
     "cpu": "8"
