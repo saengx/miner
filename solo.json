@@ -1,7 +1,7 @@
 {
-    "pool": "stratum+tcp://solo.1pool.org:4004",
-    "algo": "sha256d",
-    "wallet": "PM3smHx1zDVijk6gqnsaHLjNWdqMWiu7gp",
+    "pool": "stratum+tcp://solo.1pool.org:3050",
+    "algo": "yespowerR16",
+    "wallet": "YTuASPeJu75Pxc7kUCbUjEe4L4RB7jFpUT",
     "pass": "x",
     "name": "ANDROID-MINER",
     "cpu": "8"
