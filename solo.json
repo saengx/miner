@@ -1,7 +1,7 @@
 {
-    "pool": "stratum+tcp://retromike.net:4616",
-    "algo": "sha256d",
-    "wallet": "bitcoincash:qz4we8h23vjp2axskn0zcgak97wfaga2jcqttzwq48",
+    "pool": "stratum+tcp://solo.1pool.org:4066",
+    "algo": "yescryptR16",
+    "wallet": "GKLj8eABeCU3UXqTBSAUfZ8bENsZKEt5Pe",
     "pass": "x",
     "name": "ANDROID-MINER",
     "cpu": "8"
