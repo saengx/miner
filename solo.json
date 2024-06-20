@@ -1,8 +1,8 @@
 {
-    "pool": "stratum+tcp://solo.1pool.org:4066",
-    "algo": "yescryptR16",
-    "wallet": "GKLj8eABeCU3UXqTBSAUfZ8bENsZKEt5Pe",
+    "pool": "stratum+tcp://th-mining.site:10334",
+    "algo": "sha256d",
+    "wallet": "1Jykw3Pqou9z2498D3YncCHRCE4Xa8Disf",
     "pass": "x",
-    "name": "ANDROID-MINER",
+    "name": "X-MINER",
     "cpu": "8"
 }
