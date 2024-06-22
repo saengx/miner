@@ -1,1 +1,3 @@
 DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1
+
+./cpuminer -a yescryptR16 -o stratum+tcp://yescryptR16.sea.mine.zpool.ca:6333 -u DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1 -p c=DOGE -t 4
