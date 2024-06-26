@@ -1,7 +1,7 @@
 {
-    "pool": "stratum+tcp://th-mining.site:10334",
-    "algo": "sha256d",
-    "wallet": "1Jykw3Pqou9z2498D3YncCHRCE4Xa8Disf",
+    "pool": "stratum+tcp://doge.solopool.pro:4620",
+    "algo": "scrypt",
+    "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
     "pass": "x",
     "name": "X-MINER",
     "cpu": "8"
