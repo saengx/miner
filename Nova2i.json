@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://na.luckpool.net:3960",
+    "pool": "stratum+tcp://pool.verus.io:9998",
     "wallet": "RBtTBgmjNCucDyoTBPhNVhMpzzbj8A1kCd",
     "pass": "x"
 }
