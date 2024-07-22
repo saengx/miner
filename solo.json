@@ -1,7 +1,7 @@
 {
-    "pool": "stratum+tcp://doge.solopool.pro:4620",
-    "algo": "scrypt",
-    "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
+    "pool": "stratum+tcp://ru-stratum.altcoinpool.ru:6239",
+    "algo": "yescryptR16",
+    "wallet": "FehTQa7TA7KEeoXqMvZtU5MQsEixHcQGFa",
     "pass": "x",
     "name": "X-MINER",
     "cpu": "8"
