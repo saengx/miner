@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://doge.luckymonster.pro:5112",
+    "pool": "stratum+tcp://doge.solopool.us:3041",
     "algo": "scrypt",
     "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
     "pass": "x",
