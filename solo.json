@@ -1,8 +1,8 @@
 {
-    "pool": "stratum+tcp://doge.solopool.us:3041",
-    "algo": "scrypt",
-    "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
-    "pass": "x",
+    "pool": "stratum+tcp://yespowerTIDE.sea.mine.zpool.ca:6239",
+    "algo": "yespowerTIDE",
+    "wallet": "TUGYWwcosNRqC78qaQJoMCfJ4iTVEv1jBg",
+    "pass": "c=TDC,zap=TDC",
     "name": "X-MINER",
     "cpu": "8"
 }
