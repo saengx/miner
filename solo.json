@@ -1,8 +1,8 @@
 {
-    "pool": "stratum+tcp://stratum-asia.rplant.xyz:7059",
+    "pool": "stratum+tcp://yespowerTIDE.sea.mine.zpool.ca:6239",
     "algo": "yespowerTIDE",
     "wallet": "TUGYWwcosNRqC78qaQJoMCfJ4iTVEv1jBg",
-    "pass": "x",
+    "pass": "c=TDC,zap=TDC",
     "name": "X-MINER",
     "cpu": "8"
 }
