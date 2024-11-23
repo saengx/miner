@@ -2,7 +2,7 @@
     "pool": "stratum+tcp://cpupower.sea.mine.zpool.ca:6240",
     "algo": "cpupower",
     "wallet": "cpu1qvyptf57y8ztmyrcarhd56whvf2lmxf4ccger5m",
-    "pass": "c=BTC,zap=CPU",
+    "pass": "c=CPU,zap=CPU",
     "name": "X-MINER",
     "cpu": "8"
 }
