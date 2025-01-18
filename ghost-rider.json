@@ -1,8 +1,8 @@
 {
     "pool": "stratum+tcp://ghostrider.sea.mine.zpool.ca:5354",
     "algo": "cpupower",
-    "wallet": "1Jykw3Pqou9z2498D3YncCHRCE4Xa8Disf",
-    "pass": "x",
+    "wallet": "FNt3ED4y9GixEyE4SZ35GEWsYbxSJDAWRQ",
+    "pass": "c=KUS",
     "name": "ANDROID-MINER",
     "cpu": "8"
 }
