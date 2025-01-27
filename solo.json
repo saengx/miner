@@ -2,7 +2,7 @@
     "pool": "stratum+tcp://ghostrider.asia.mine.zergpool.com:5354",
     "algo": "gr",
     "wallet": "kaspa:qr6crmfhx79mdwuddnz7f69zw40cmepxutxfgdwyagveclq7gpjxjgh8euzqg",
-    "pass": "c=KAS,mc=BBC/BTRM/FSC/FUEC/KUS/MAXE/MECU/NIKI/OSN/RHX/RTM/SKYT/TAFT/VARSE/YERB",
+    "pass": "c=KAS,mc=BBC/BTRM/FSC/FUEC/KUS/MAXE/MECU/NIKI/OSN/RHX/RTM/SKYT/TAFT/VARSE/YERB,m=solo",
     "name": "X-MINER",
     "cpu": "8"
 }
