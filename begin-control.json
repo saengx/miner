@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd
-run-miner
+run
