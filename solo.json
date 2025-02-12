@@ -1,8 +1,8 @@
 {
     "pool": "stratum+tcp://mike.asia.mine.zergpool.com:3734",
     "algo": "mike",
-    "wallet": "FNt3ED4y9GixEyE4SZ35GEWsYbxSJDAWRQ",
-    "pass": "c=KUS,mc=VKAX,m=solo",
+    "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
+    "pass": "c=DOGE,mc=VKAX,m=solo",
     "name": "X-MINER",
     "cpu": "8"
 }
