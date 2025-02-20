@@ -2,7 +2,7 @@
     "pool": "stratum+tcp://allium.asia.mine.zergpool.com:6433",
     "algo": "allium",
     "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
-    "pass": "c=DOGE,mc=GRLC,m=solo",
+    "pass": "c=DOGE,mc=GRLC",
     "name": "X-MINER",
     "cpu": "8"
 }
