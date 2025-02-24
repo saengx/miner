@@ -6,3 +6,4 @@ run-miner
 #git clone https://github.com/saengx/solo-project && cd solo-project && chmod +x setupdate.sh setup.sh && ./setupdate.sh
 #cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RBtTBgmjNCucDyoTBPhNVhMpzzbj8A1kCd.Y9-01 -p x -t 8
 
+#cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5045 -u R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d.solo -p x -t 8
