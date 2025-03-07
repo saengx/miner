@@ -1,8 +1,8 @@
 {
-    "pool": "stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333",
-    "algo": "yescryptR16",
+    "pool": "stratum+tcp://cpupower.asia.mine.zergpool.com:4250",
+    "algo": "cpupower",
     "wallet": "FNt3ED4y9GixEyE4SZ35GEWsYbxSJDAWRQ",
-    "pass": "c=KUS,mc=GOLD",
+    "pass": "c=KUS,mc=CPU",
     "name": "X-MINER",
     "cpu": "8"
 }
