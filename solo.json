@@ -1,5 +1,5 @@
 {
-    "pool": stratum+tcp://ghostrider.asia.mine.zergpool.com:5354",
+    "pool": "stratum+tcp://ghostrider.asia.mine.zergpool.com:5354",
     "algo": "gr",
     "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
     "pass": "c=DOGE,mc=BBC/BTRM/FSC/FUEC/GPRX/KUS/MAXE/MECU/NIKI/OSN/RHX/RTM/SKYT/TAFT/VARSE/YERB,m=solo",
