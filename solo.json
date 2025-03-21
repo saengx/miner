@@ -1,8 +1,8 @@
 {
-    "pool": "stratum+tcp://sha256.sea.mine.zpool.ca:3333",
+    "pool": "stratum+tcp://sha256.asia.mine.zergpool.com:3333",
     "algo": "sha256",
     "wallet": "13cG7AtSmP739ySFiDiFQB2dEj98WMzA9A",
-    "pass": "c=BTC,zap=BTC-hash",
+    "pass": "c=BTC,mc=BTC,m=solo",
     "name": "X-MINER",
     "cpu": "8"
 }
