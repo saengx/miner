@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://dgb.minecraftpool.com:7770",
+    "pool": "stratum+tcp://dgb-stratum.solominer.net:3333",
     "algo": "sha256d",
     "wallet": "DS44WNgKj1nCyL5TrkdUcgxWZLE6jCTBD9",
     "pass": "x",
