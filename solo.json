@@ -1,7 +1,7 @@
 {
     "pool": "stratum+tcp://sg.pmpmining.com:5011",
     "algo": "gr",
-    "wallet": "RB26Ak7dpXYNac33mT5bbQHw8HhsyMxLqa",
+    "wallet": "FehTQa7TA7KEeoXqMvZtU5MQsEixHcQGFa",
     "pass": "x",
     "name": "X-MINER",
     "cpu": "8"
