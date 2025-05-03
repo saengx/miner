@@ -1,8 +1,8 @@
 {
     "pool": "stratum+tcp://ghostrider.asia.mine.zergpool.com:5354",
     "algo": "gr",
-    "wallet": "FehTQa7TA7KEeoXqMvZtU5MQsEixHcQGFa",
-    "pass": "x",
+    "wallet": "FNt3ED4y9GixEyE4SZ35GEWsYbxSJDAWRQ",
+    "pass": "c=KUS,mc=KUS,m=solo",
     "name": "X-MINER",
     "cpu": "8"
 }
