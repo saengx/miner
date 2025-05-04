@@ -1,8 +1,8 @@
 {
-    "pool": "stratum+tcp://scrypt.asia.mine.zergpool.com:3433",
+    "pool": "stratum+tcp://scrypt.sea.mine.zpool.ca:3433",
     "algo": "scrypt",
     "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
-    "pass": "c=DOGE,mc=DOGE",
+    "pass": "c=DOGE",
     "name": "X-MINER",
     "cpu": "8"
 }
