@@ -1,6 +1,6 @@
 {
-    "pool": "stratum+tcp://mike.sea.mine.zpool.ca:5356",
-    "algo": "mike",
+    "pool": "stratum+tcp://scryptn2.sea.mine.zpool.ca:4339",
+    "algo": "scryptn2",
     "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
     "pass": "c=DOGE",
     "name": "X-MINER",
