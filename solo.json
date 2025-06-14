@@ -1,6 +1,6 @@
 {
-    "pool": "stratum+tcp://allium.sea.mine.zpool.ca:6433",
-    "algo": "allium",
+    "pool": "stratum+tcp://yescryptR16.sea.mine.zpool.ca:6333",
+    "algo": "yescryptR16",
     "wallet": "FrWSUbj2gkuXLhHYsGs8WTJ4xrs2qqL2Wu",
     "pass": "c=FNNC",
     "name": "X-MINER",
