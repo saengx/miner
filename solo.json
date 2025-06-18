@@ -1,8 +1,8 @@
 {
-    "pool": "stratum+tcp://verthash.sea.mine.zpool.ca:6144",
-    "algo": "verthash",
-    "wallet": "vtc1qlafdzac7e8qzu26s0ndmlqhty8kvyjs83vr0rz",
-    "pass": "c=VTC,zap=VTC",
+    "pool": "stratum+tcp://yescryptR16.sea.mine.zpool.ca:6333",
+    "algo": "yescryptR16",
+    "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
+    "pass": "c=DOGE",
     "name": "X-MINER",
     "cpu": "8"
 }
