@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://verus.wattpool.net:1232",
+    "pool": "stratum+tcp://veruscoin.cedric-crispin.com:4024",
     "wallet": "R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d",
     "pass": "x"
 }
