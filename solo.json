@@ -1,8 +1,8 @@
 {
-    "pool": "stratum+tcp://yescryptR16.sea.mine.zpool.ca:6333",
+    "pool": "stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333",
     "algo": "yescryptR16",
     "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
-    "pass": "c=DOGE",
+    "pass": "c=DOGE,mc=FNNC,m=solo",
     "name": "X-MINER",
     "cpu": "8"
 }
