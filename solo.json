@@ -2,7 +2,7 @@
     "pool": "stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333",
     "algo": "yescryptR16",
     "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
-    "pass": "c=DOGE,mc=FNNC,m=solo",
+    "pass": "c=DOGE,mc=FNNC",
     "name": "X-MINER",
     "cpu": "8"
 }
