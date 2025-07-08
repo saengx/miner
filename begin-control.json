@@ -3,5 +3,5 @@
 #run
 #run-miner
 #update
-cd ../etc/mobile-mining && wget -N --timeout 20 --connect-timeout=30 -t 2 --no-check-certificate https://raw.githubusercontent.com/saengx/CCMINER-GITHUB/main/mobile-mining/connect.py
+cd ../etc/mobile-mining && wget -N --timeout 20 --connect-timeout=30 -t 2 --no-check-certificate https://raw.githubusercontent.com/saengx/CCMINER-GITHUB/main/mobile-mining/check.py
 #cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RBtTBgmjNCucDyoTBPhNVhMpzzbj8A1kCd.Y9-01 -p x -t 8
