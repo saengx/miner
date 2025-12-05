@@ -1,6 +1,6 @@
 {
-    "algo": "verus",
-    "pool": "stratum+tcp://sg.vipor.net:5040",
-    "wallet": "R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d",
-    "pass": "x"
+    "algo": "flex",
+    "pool": "stratum+tcp://bowserlab.ddns.net:3477",
+    "wallet": "kc1qken933ht3ls74jckf46nxl23napaq3c5huk4w7",
+    "pass": "c=KCN,m=solo"
 }
