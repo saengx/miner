@@ -1,6 +1,6 @@
 {
-    "algo": "m7m",
-    "pool": "stratum+tcp://m7m.sea.mine.zpool.ca:6033",
-    "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
-    "pass": "c=DOGE,zap=XMG"
+    "algo": "verus",
+    "pool": "stratum+tcp://sg.vipor.net:5040",
+    "wallet": "R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d",
+    "pass": "x"
 }
