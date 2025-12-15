@@ -1,8 +1,6 @@
 {
-    "pool": "stratum+tcp://scrypt.sea.mine.zpool.ca:3433",
-    "algo": "scrypt",
-    "wallet": "Ndghntp1ettnk3jFjAiytCv3nHue2P6SoA",
-    "pass": "c=NENG",
-    "name": "X-MINER",
-    "cpu": "8"
+    "algo": "verus",
+    "pool": "stratum+tcp://sg.vipor.net:5040",
+    "wallet": "R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d",
+    "pass": "x"
 }
