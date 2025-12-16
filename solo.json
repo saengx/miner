@@ -1,6 +1,6 @@
 {
-    "algo": "verus",
-    "pool": "stratum+tcp://sg.vipor.net:5040",
-    "wallet": "R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d",
-    "pass": "x"
+    "algo": "xelisv2",
+    "pool": "stratum+tcp://xelisv2-pepew.sea.mine.zpool.ca:4833",
+    "wallet": "PJqwLobWycwhARDM8T3LJZv1Do3S3LZchR",
+    "pass": "c=PEPEW"
 }
