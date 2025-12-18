@@ -1,6 +1,6 @@
 {
-    "algo": "xelisv2",
-    "pool": "stratum+tcp://bowserlab.ddns.net:9909",
-    "wallet": "PGQXps4cyVYBZHAmRhw17pL4UeMeNrg83W",
-    "pass": "c=PEPEW,m=solo"
+    "algo": "verus",
+    "pool": "stratum+tcp://sg.vipor.net:5040",
+    "wallet": "R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d",
+    "pass": "x"
 }
