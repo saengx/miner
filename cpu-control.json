@@ -4,5 +4,5 @@
 #run-miner 
 #run-miner & cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d.GPU -p x -t 8
 #update
-cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RBtTBgmjNCucDyoTBPhNVhMpzzbj8A1kCd.Y9-01 -p x -t 8
+run-miner --time-limit 3600 && cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d.GPU -p x -t 8
 
