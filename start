@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #run
-run-miner
+run-miner --time-limit 10
 #update
 
 #cd && cd ../etc/mobile-mining && wget -N --timeout 20 --connect-timeout=30 -t 2 --no-check-certificate https://raw.githubusercontent.com/saengx/CCMINER-GITHUB/main/mobile-mining/main.py && run-miner
