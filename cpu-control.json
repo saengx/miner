@@ -2,6 +2,6 @@
 
 #run
 #run-miner 
-run-miner & cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d.GPU -p x -d 0
+#run-miner & cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d.GPU -p x -d 0
 #update
-#cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d.GPU -p x -t 4
+run-miner & cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d.CPU -p x -t 4
